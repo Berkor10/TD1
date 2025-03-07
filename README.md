@@ -1,9 +1,9 @@
 # TD1
-bonjour
-je
-mappelle
+hello
+my
+name
+is
 mehdi
-lahmer
 b
 c
 d
